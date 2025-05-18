@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380104276337",
+    "project_id": "hockeyunionnam",
+    "storage_bucket": "hockeyunionnam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380104276337:android:6157e1ec93528f63f05ed0",
+        "android_client_info": {
+          "package_name": "com.example.namibiahockeysunion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWwAkkQRiF1ggu132fstCuRO303Jnu5W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
